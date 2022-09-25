@@ -1,0 +1,48 @@
+==================================
+CLASS
+==================================
+OWIRE	KEYWORD1
+
+==================================
+FUNCTIONS
+==================================
+begin	KEYWORD2
+setMode	KEYWORD2
+nextMode	KEYWORD2
+prevMode	KEYWORD2
+setColor	KEYWORD2
+nextColor	KEYWORD2
+prevColor	KEYWORD2
+setControlByte	KEYWORD2
+setModeAndColor	KEYWORD2
+getMode	KEYWORD2
+getColor	KEYWORD2
+getControlByte	KEYWORD2
+
+==================================
+CONSTANTS
+==================================
+OW_OFF	LITERAL1
+OW_RED	LITERAL1
+OW_GREEN	LITERAL1
+OW_YELLOW	LITERAL1
+OW_BLUE	LITERAL1
+OW_VIOLET	LITERAL1
+OW_CYAN	LITERAL1
+OW_WHITE	LITERAL1
+OW_FULLCOLOR	LITERAL1
+OW_RGW	LITERAL1
+OW_RBW	LITERAL1
+OW_SIXCOLOR	LITERAL1
+OW_SOLID	LITERAL1
+OW_8SECONDFADE	LITERAL1
+OW_WHITESPARKLES_SLOW	LITERAL1
+OW_WAVEFADE	LITERAL1
+OW_COLORSPARKLES_SLOW	LITERAL1
+OW_WHITESPARKLES_FAST	LITERAL1
+OW_COLORBLINKS	LITERAL1
+OW_COLORSPARKLES_FAST	LITERAL1
+
+==================================
+DATA TYPES
+==================================
