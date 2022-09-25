@@ -22,7 +22,7 @@ Documentation
 Products that use this Library
 ----------------
 
-* [COM-21209](https://www.sparkfun.com/products/21209) - 
+* [COM-21209](https://www.sparkfun.com/products/21209) - 2-Pin "OWire" LED - 4mm Concave
 
 License Information
 -------------------
